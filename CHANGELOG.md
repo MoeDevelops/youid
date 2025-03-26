@@ -1,8 +1,12 @@
 # Changelog
 
-## v1.3.0 - 2025-03-12
+## v1.4.0 - 2025-03-26
 
 - Added support for the JavaScript target
+
+## v1.3.0 - 2025-03-26
+
+- Lowercase letters are now used in the text format.
 
 ## v1.2.0 - 2024-06-16
 
