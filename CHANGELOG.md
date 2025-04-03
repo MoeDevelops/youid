@@ -1,8 +1,12 @@
 # Changelog
 
-## v1.4.0 - 2025-03-26
+## v1.5.0 - 2025-04-03
 
 - Added support for the JavaScript target
+
+## v1.4.0 - 2025-04-03
+
+- Added `nil` and `nil_string`.
 
 ## v1.3.0 - 2025-03-26
 
